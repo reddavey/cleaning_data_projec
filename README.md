@@ -24,6 +24,6 @@ To run the analysis unzip the dataset and place the script "run_analysis.R" in t
 
   Contains more detail on the data manipulation and describes the variables contained in the 'means_of_activities.txt' dataset.
   
-* READMD.md
+* README.md
 
   This file.
